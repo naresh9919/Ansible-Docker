@@ -1,8 +1,0 @@
-xarray
-netCDF4
-bottleneck
-numpy
-pandas
-matplotlib
-jupyterlab
-scikit-learn
